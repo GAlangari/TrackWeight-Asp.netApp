@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\IT331-Project\IT331ProjectDLayer\bin\Debug\IT331ProjectDLayer.dll
+C:\Users\DELL\source\repos\IT331-Project\IT331ProjectDLayer\bin\Debug\IT331ProjectDLayer.pdb
+C:\Users\DELL\source\repos\IT331-Project\IT331ProjectDLayer\obj\Debug\IT331ProjectDLayer.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\IT331-Project\IT331ProjectDLayer\obj\Debug\IT331ProjectDLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\IT331-Project\IT331ProjectDLayer\obj\Debug\IT331ProjectDLayer.dll
+C:\Users\DELL\source\repos\IT331-Project\IT331ProjectDLayer\obj\Debug\IT331ProjectDLayer.pdb
+C:\Users\DELL\source\repos\IT331-Project\IT331ProjectDLayer\bin\Debug\IT331ProjectDLayer.dll.config
+D:\Downloads\Uni\N-tier Architecture\IT331-Project\IT331ProjectDLayer\bin\Debug\IT331ProjectDLayer.dll.config
+D:\Downloads\Uni\N-tier Architecture\IT331-Project\IT331ProjectDLayer\bin\Debug\IT331ProjectDLayer.dll
+D:\Downloads\Uni\N-tier Architecture\IT331-Project\IT331ProjectDLayer\bin\Debug\IT331ProjectDLayer.pdb
+D:\Downloads\Uni\N-tier Architecture\IT331-Project\IT331ProjectDLayer\obj\Debug\IT331ProjectDLayer.csproj.AssemblyReference.cache
+D:\Downloads\Uni\N-tier Architecture\IT331-Project\IT331ProjectDLayer\obj\Debug\IT331ProjectDLayer.csproj.CoreCompileInputs.cache
+D:\Downloads\Uni\N-tier Architecture\IT331-Project\IT331ProjectDLayer\obj\Debug\IT331ProjectDLayer.dll
+D:\Downloads\Uni\N-tier Architecture\IT331-Project\IT331ProjectDLayer\obj\Debug\IT331ProjectDLayer.pdb

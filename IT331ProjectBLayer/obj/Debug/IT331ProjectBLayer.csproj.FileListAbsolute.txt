@@ -1,0 +1,20 @@
+C:\Users\DELL\source\repos\IT331-Project\IT331ProjectBLayer\bin\Debug\IT331ProjectBLayer.dll
+C:\Users\DELL\source\repos\IT331-Project\IT331ProjectBLayer\bin\Debug\IT331ProjectBLayer.pdb
+C:\Users\DELL\source\repos\IT331-Project\IT331ProjectBLayer\bin\Debug\IT331ProjectDLayer.dll
+C:\Users\DELL\source\repos\IT331-Project\IT331ProjectBLayer\bin\Debug\IT331ProjectDLayer.pdb
+C:\Users\DELL\source\repos\IT331-Project\IT331ProjectBLayer\obj\Debug\IT331ProjectBLayer.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\IT331-Project\IT331ProjectBLayer\obj\Debug\IT331ProjectBLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\IT331-Project\IT331ProjectBLayer\obj\Debug\IT331ProjectBLayer.dll
+C:\Users\DELL\source\repos\IT331-Project\IT331ProjectBLayer\obj\Debug\IT331ProjectBLayer.pdb
+C:\Users\DELL\source\repos\IT331-Project\IT331ProjectBLayer\bin\Debug\IT331ProjectDLayer.dll.config
+C:\Users\DELL\source\repos\IT331-Project\IT331ProjectBLayer\obj\Debug\IT331ProjectBLayer.csproj.CopyComplete
+D:\Downloads\Uni\N-tier Architecture\IT331-Project\IT331ProjectBLayer\bin\Debug\IT331ProjectBLayer.dll
+D:\Downloads\Uni\N-tier Architecture\IT331-Project\IT331ProjectBLayer\bin\Debug\IT331ProjectBLayer.pdb
+D:\Downloads\Uni\N-tier Architecture\IT331-Project\IT331ProjectBLayer\bin\Debug\IT331ProjectDLayer.dll
+D:\Downloads\Uni\N-tier Architecture\IT331-Project\IT331ProjectBLayer\bin\Debug\IT331ProjectDLayer.pdb
+D:\Downloads\Uni\N-tier Architecture\IT331-Project\IT331ProjectBLayer\bin\Debug\IT331ProjectDLayer.dll.config
+D:\Downloads\Uni\N-tier Architecture\IT331-Project\IT331ProjectBLayer\obj\Debug\IT331ProjectBLayer.csproj.AssemblyReference.cache
+D:\Downloads\Uni\N-tier Architecture\IT331-Project\IT331ProjectBLayer\obj\Debug\IT331ProjectBLayer.csproj.CoreCompileInputs.cache
+D:\Downloads\Uni\N-tier Architecture\IT331-Project\IT331ProjectBLayer\obj\Debug\IT331ProjectBLayer.csproj.CopyComplete
+D:\Downloads\Uni\N-tier Architecture\IT331-Project\IT331ProjectBLayer\obj\Debug\IT331ProjectBLayer.dll
+D:\Downloads\Uni\N-tier Architecture\IT331-Project\IT331ProjectBLayer\obj\Debug\IT331ProjectBLayer.pdb

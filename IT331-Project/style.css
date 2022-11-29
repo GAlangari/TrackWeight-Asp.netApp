@@ -1,0 +1,298 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+body {
+    background-image: url(background.jpg);
+    backdrop-filter: brightness(80%);
+    background-size: 1280px 750px;
+    height: 615px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.logo {
+    font-size: 10px;
+    margin-right: 1000px;
+}
+
+    .logo a {
+        color: #196F3D;
+        text-decoration: underline;
+    }
+
+nav ul {
+    list-style-type: none;
+    font-size: 15px;
+    margin-top: -80px;
+    margin-left: 90px;
+}
+
+    nav ul li {
+        float: left;
+        padding: 10px;
+        font-size: 17px;
+    }
+
+li a {
+    text-decoration: none;
+    color: #229954;
+}
+
+    li a:hover {
+        font-weight: bold;
+        text-decoration: underline;
+    }
+
+
+div.box {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    background: rgba(208, 211, 212, 0.90);
+    width: 290px;
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 335px;
+    border-radius: 15px;
+    height: 360px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+h2 {
+    padding: 10px;
+    margin-top: 20px;
+}
+
+h2, h3 {
+    color: #196F3D;
+}
+
+form {
+    margin-top: 20px;
+}
+
+
+label {
+    color: #196F3D;
+}
+
+.info {
+    background: transparent;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    margin: 10px;
+    padding: 3px;
+}
+
+.emailLabel {
+    margin-left: 20px;
+}
+
+.send, .send2 {
+    padding: 5px;
+    margin-left: 5px;
+    color: #196F3D;
+    background: transparent;
+    border: 1.5px solid;
+    border-radius: 5px;
+}
+
+.send2 {
+    margin-top: 38px;
+}
+
+    .send:hover, .send2:hover {
+        cursor: pointer;
+        text-decoration: underline;
+    }
+
+/*----------------------------------------*/
+/*ABOUT US Page*/
+
+body.aboutUs {
+    height: 940px;
+}
+
+div.box2 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    background: rgba(208, 211, 212, 0.90);
+    width: 55%;
+    height: 755px;
+    text-align: center;
+    margin: auto;
+    margin-top: 70px;
+    margin-bottom: 60px;
+    border-radius: 15px;
+}
+
+.lable {
+    font-size: 50px;
+    padding-top: 40px;
+    margin-bottom: -10px;
+    color: #196F3D;
+}
+
+.link {
+    font-size: 18px;
+    color: #229954;
+    text-decoration: underline;
+}
+
+.paragraph {
+    font-size: 18px;
+    color: #229954;
+}
+
+.reference {
+    color: #229954;
+    font-size: 12px;
+}
+
+/*----------------------------------------*/
+
+
+/*----------------------------------------*/
+/* track your weight page*/
+div.trackingBox {
+    box-shadow: 0 0 10px rgba(0,0,0,0.23);
+    background: rgba(208, 211, 212, 0.90);
+    width: 800px;
+    text-align: center;
+    margin-top: 120px;
+    margin-left: 250px;
+    border-radius: 15px;
+    height: 380px;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    font-size: 15px;
+}
+
+.cardHeader {
+    font-size: 17px;
+    color: #196F3D;
+    padding-top: 50px;
+    text-align: center;
+}
+
+table {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #196F3D;
+    border: 1px solid green;
+    border-collapse: collapse;
+}
+
+/*--------------------------------------*/
+
+/*--------------------------------------*/
+/* Meals Page */
+
+.card1Img {
+    float: left;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+
+.card2Img {
+    float: left;
+    margin-left: 3px;
+    margin-right: 15px;
+    margin-bottom: 30px;
+    margin-top: 55px;
+}
+
+.card3Img {
+    float: left;
+    margin-left: 40px;
+    margin-top: 60px;
+}
+
+.Card {
+    padding-top: 1%;
+    padding-bottom: 18%;
+}
+
+.CardHeader, .CardText {
+    width: 60%;
+    margin-right: 100px;
+    margin-left: 32%;
+}
+
+.CardHeader {
+    font-size: 20px;
+    color: #196F3D;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.CardText {
+    font-size: 17px;
+    color: #196F3D;
+    text-align: justify;
+    margin-top: 5px;
+}
+
+.reference1 {
+    font-size: 10px;
+    margin-left: -960px;
+    color: #196F3D;
+}
+
+.reference2 {
+    font-size: 9px;
+    margin-left: -950px;
+    margin-bottom: 10px;
+    color: #196F3D;
+}
+
+.reference3 {
+    font-size: 8px;
+    margin-left: -900px;
+    color: #196F3D;
+}
+
+.reference4 {
+    margin-top: 15px;
+    font-size: 12px;
+    color: #196F3D;
+}
+
+body.meals {
+    height: 1630px;
+}
+
+div.box1 {
+    box-shadow: 0 0 10px rgba(0,0,0,0.23);
+    background: rgba(208, 211, 212, 0.90);
+    width: 940px;
+    text-align: center;
+    margin: auto;
+    margin-top: 175px;
+    border-radius: 15px;
+    height: 310px;
+    position: relative;
+}
+
+/*--------------------------------------*/
+
+footer {
+    margin-top: 50px;
+    margin-left: 11px;
+    color: #196F3D;
+}
+
+    footer.track {
+        margin-top: 60px;
+    }
+
+    footer.aboutUs {
+        margin-top: -1500px;
+    }
+
+    footer.meals {
+        margin-top: 120px;
+    }
